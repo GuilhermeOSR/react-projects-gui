@@ -1,0 +1,158 @@
+
+body {
+  background-color: #363231;
+  margin: 20px;
+}
+
+.App {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #23252C;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.perfil-img {
+  width: 400px;
+  border-radius: 15px 15px 0px 0px;
+
+}
+
+.perfil-pessoa {
+  text-align: center;
+  width: 100%;
+}
+
+.perfil-nome {
+  color: #ffffffff;
+  font-size: 30px;
+  margin: 0;
+  margin-top: 20px;
+}
+
+.perfil-cargo {
+  color: RGBA(0, 189, 217, 0.8);
+  margin: 0;
+  margin-bottom: 15px;
+  font-size: 25px;
+}
+
+.perfil-site {
+  color: #ffffffff;
+  font-size: 16px;
+
+}
+
+.call-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+  gap: 20px;
+  padding: 20px 10px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  width: 40%;
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  gap: 10px;
+
+  
+}
+
+
+.btnEmail {
+  background-color: RGB(255, 255, 255);
+  
+}
+
+.btnLinkedin {
+  background-color: #5093E2;
+  color: #ffffffff;
+
+}
+
+.icon-linkedin {
+  margin-bottom: 2px;
+  margin-right: 3px;
+}
+
+.icon-email {
+  margin-bottom: 3px;
+
+  }
+
+  .article-about {
+    color: #ffffffff;
+    display: flexbox;
+    padding-left: 40px;
+    margin-right: 40px;
+    width: 80%;
+
+  }
+
+  .article-interests {
+    color: #ffffffff;
+    padding-left: 40px;
+    
+    width: 100%;
+    padding-top: 10px;
+  }
+
+
+
+  .about-p {
+    color: RGB(156, 156, 158);
+    width: 100%;
+    margin-top: -5px;
+    }
+
+
+
+  .inter-p {
+    color: RGB(156, 156, 158);
+    padding-right: 40px;
+    width: 81%;
+    margin-top: -5px;
+  }
+
+
+  .footer-card {
+    margin-top: 10%;
+    height: 10vh;
+    background-color: RGB(22, 22, 25);
+  }
+
+  .redes-sociais {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    font-size: 40px;
+    padding-top: 40px;
+  }
+
+  .icon-twitter {
+    color: #918E9B;
+
+  }
+  .icon-face {
+    color: #918E9B;
+  }
+
+  .icon-insta {
+    color: #918E9B;
+    
+  }
+
+  .icon-github {
+    color: #918E9B;
+ 
+  }
+
